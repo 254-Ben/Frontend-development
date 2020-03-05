@@ -9,6 +9,9 @@
     "dev": "parcel src/index.html"
   },
   "author": "Ben",
+  "browserslist": [
+    "last 2 Firefox versions"
+  ],
   "license": "ISC",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
